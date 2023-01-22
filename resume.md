@@ -23,5 +23,7 @@ Developed and maintained various conference talks, online training, and in-perso
 Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
 
 ### Test
+
 Ce ci est un test
+This is a merge conflict test
 
